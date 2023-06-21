@@ -32,7 +32,7 @@
 	<a href="mailto:heondong0723@gmail.com">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
-	<a href="https://orchid-wasp-04e.notion.site/bcdf830b06bb44dbbd3e574e5e07e28a?pvs=4">
+	<a href="https://orchid-wasp-04e.notion.site/DongHeon-Kim-bcdf830b06bb44dbbd3e574e5e07e28a">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
 </div>
