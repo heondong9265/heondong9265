@@ -35,5 +35,8 @@
 	<a href="https://orchid-wasp-04e.notion.site/DongHeon-Kim-bcdf830b06bb44dbbd3e574e5e07e28a">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
+		<a href="https://blog.naver.com/kimdongheon9265">
+		<img src="https://img.shields.io/badge/Naver-ABF200?style=flat&logo=Naver&logoColor=white" />
+	</a>
 </div>
 <div align=center>
