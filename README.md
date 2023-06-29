@@ -35,10 +35,10 @@
 	<a href="mailto:heondong0723@gmail.com">
 		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
 	</a>
-	<a href="https://orchid-wasp-04e.notion.site/DongHeon-Kim-bcdf830b06bb44dbbd3e574e5e07e28a">
+	<a href="">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
-		<a href="https://blog.naver.com/kimdongheon9265">
+		<a href="">
 		<img src="https://img.shields.io/badge/Naver-ABF200?style=flat&logo=Naver&logoColor=white" />
 	</a>
 </div>
