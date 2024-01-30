@@ -38,7 +38,7 @@
 	<a href="https://velog.io/@beheon/posts">
 		<img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=Notion&logoColor=white" />
 	</a>
-		<a href="">
+		<a href="mailto:kimdongheon9265@naver.com">
 		<img src="https://img.shields.io/badge/Naver-ABF200?style=flat&logo=Naver&logoColor=white" />
 	</a>
 </div>
