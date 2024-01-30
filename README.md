@@ -1,5 +1,5 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=난...어디로...?&fontSize=90" />
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=BackendDeveloper&fontSize=90" />
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
@@ -33,10 +33,10 @@
 </div>
 <div align=center>
 	<a href="mailto:heondong0723@gmail.com">
-		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+		<img src="https://img.shields.io/badge/gmail-EA4335?style=flat&logo=Gmail&logoColor=white" />
 	</a>
-	<a href="">
-		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+	<a href="https://velog.io/@beheon/posts">
+		<img src="https://img.shields.io/badge/velog-20C997?style=flat&logo=Notion&logoColor=white" />
 	</a>
 		<a href="">
 		<img src="https://img.shields.io/badge/Naver-ABF200?style=flat&logo=Naver&logoColor=white" />
